@@ -1,0 +1,11 @@
+### OSX ###
+.DS_Store
+
+### VAGRANT ###
+acceptance_config.yml
+boxes/*
+/.vagrant
+log/
+
+# Generated SSL-Keys during vagrant up
+ssl/
